@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+
+<web-app xmlns="http://java.sun.com/xml/ns/j2ee"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/j2ee http://java.sun.com/xml/ns/j2ee/web-app_2_4.xsd"
+    version="2.4">
+
+    <display-name>PolyPointService</display-name>
+    <description>
+        A simple service which accepts as a POST of JSON an ordered list of points represented as (x, y) coordinates. The points define the perimeter of a polygon. 
+    </description>
+
+    <servlet>
+        <servlet-name>PolyPointService</servlet-name>
+        <servlet-class>csi403.PolyPointService</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>PolyPointService</servlet-name>
+        <url-pattern>/PolyPointService</url-pattern>
+    </servlet-mapping>
+
+</web-app>     

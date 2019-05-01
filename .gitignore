@@ -24,3 +24,6 @@ hs_err_pid*
 
 # Ignore Maven target folder
 **/target
+
+# Ignore batch files
+*.bat

@@ -1,5 +1,5 @@
 /* 
-* Developed by: Jacob Gidley, jgidley@albany.edu, CSI 403
+* Developed by: Jacob Gidley, CSI 403
 * This program will provide a RESTful service which accepts as a POST of JSON a list of enqueue and dequeue statements onto an in-memory job queue. 
 * Each job definition contains a name and a priority, with 0 being the best priority and positive integers representing lower priorities.
 * After all enqueue and dequeue statements have been processed, the program will return the JSON representing the state of the queue (the list of job names, in priority order).

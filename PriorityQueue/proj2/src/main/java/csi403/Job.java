@@ -1,5 +1,5 @@
 /* 
-* Developed by: Jacob Gidley, jgidley@albany.edu, CSI 403
+* Developed by: Jacob Gidley, CSI 403
 * This class creates a job object that will have the following properties: command, name, and priority.
 * Also, the class contains a overloaded comparator in order for jobs to be sorted in a priority queue.
 */

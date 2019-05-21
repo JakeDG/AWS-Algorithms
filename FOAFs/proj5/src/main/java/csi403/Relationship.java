@@ -1,5 +1,5 @@
 /* 
-* Developed by: Jacob Gidley, jgidley@albany.edu, CSI 403
+* Developed by: Jacob Gidley, CSI 403
 * This class creates a relationship object that will have the following property: A string array called friends.
 */
 

@@ -1,5 +1,5 @@
 /* 
-* Developed by: Jacob Gidley, jgidley@albany.edu, CSI 403
+* Developed by: Jacob Gidley, CSI 403
 * This program will provide a RESTful service which accepts as a POST of JSON an ordered list of points represented as (x, y) coordinates. 
 * The points define the perimeter of a polygon. It returns the number of points with integer (x, y) coordinates which are fully enclosed by the polygon. 
 * Points on the polygon itself are not included in the count – the points to be included in the count must be wholly within the area bounded by the polygon.

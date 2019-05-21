@@ -1,5 +1,5 @@
 /* 
-* Developed by: Jacob Gidley, jgidley@albany.edu, CSI 403
+* Developed by: Jacob Gidley, CSI 403
 * This program receive as input an array of strings that it stores in a hash table using a hashing algorithm
 * that puts the strings in the hash table based on the sum of all the lowercase letters in the string.
 * It then returns and outputs the set of strings which collide in the hash table in the 

@@ -1,5 +1,5 @@
 /* 
-* Developed by: Jacob Gidley, jgidley@albany.edu, CSI 403
+* Developed by: Jacob Gidley, CSI 403
 * This class creates a person object that will have the following properties: name and an array list of friends.
 * Also, the class contains a overloaded equals() method in order to compare person objects.
 */

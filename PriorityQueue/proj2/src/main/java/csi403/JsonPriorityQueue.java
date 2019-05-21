@@ -1,5 +1,5 @@
 /* 
-* Developed by: Jacob Gidley, jgidley@albany.edu, CSI 403
+* Developed by: Jacob Gidley, CSI 403
 * This class processes the incoming JSON input of jobs and creates a priority queue of job objects. 
 * Each job definition contains a name and a priority, with 0 being the best priority and positive integers representing lower priorities.
 * After all enqueue and dequeue statements have been processed, the program will return the JSON representing the state of the queue (the list of job names, in priority order).

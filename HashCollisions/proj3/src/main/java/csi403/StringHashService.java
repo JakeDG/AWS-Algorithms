@@ -1,5 +1,5 @@
 /* 
-* Developed by: Jacob Gidley, jgidley@albany.edu, CSI 403
+* Developed by: Jacob Gidley, CSI 403
 * This program will provide a RESTful service which accepts as a POST of a JSON list of strings. 
 */
 

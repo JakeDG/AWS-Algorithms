@@ -1,5 +1,5 @@
 /* 
-* Developed by: Jacob Gidley, jgidley@albany.edu, CSI 403
+* Developed by: Jacob Gidley, CSI 403
 * This class processes the incoming JSON input of points on a polygon and returns the number of points with integer (x, y) coordinates enclosed by the polygon.
 */
 

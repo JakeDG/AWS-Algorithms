@@ -1,5 +1,5 @@
 /* 
-* Developed by: Jacob Gidley, jgidley@albany.edu, CSI 403
+* Developed by: Jacob Gidley, CSI 403
 * This program will provide a RESTful service wwhich accepts a graph of people where edges represent friendship relationships.  
 * Return the suggested edges which would create direct friend relationships between two people who currently are at most one 
 * friend away – two people who are “friends of a friend” (FOAFs).
